@@ -7,6 +7,7 @@ import time
 import threading
 import http.server
 import socketserver
+import platform
 from pathlib import Path
 from utils.email_sender import send_test_report
 
@@ -46,6 +47,13 @@ def main():
     print("运行测试...")
     subprocess.run("pytest tests/test_view_operations.py -v -s --alluredir=allure-results", shell=True)
 
+    # 根据操作系统选择命令
+    if platform.system() == "Windows":
+        cmd = "cmd /c allure generate allure-results -o allure-report --clean"
+    else:
+        cmd = "allure generate allure-results -o allure-report --clean"
+
+    subprocess.run(cmd, shell=True)
     # 2. 生成报告
     print("生成报告...")
     subprocess.run("cmd /c allure generate allure-results -o allure-report --clean", shell=True)
