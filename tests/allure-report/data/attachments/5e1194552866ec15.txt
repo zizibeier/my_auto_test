@@ -1,0 +1,1 @@
+加载定位器文件: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\locators\main_page_locators.yaml

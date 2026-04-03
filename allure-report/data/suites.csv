@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试缩放视图","2354","test_zoom_view","tests","Thu Apr 02 20:36:20 CST 2026","passed","Thu Apr 02 20:36:22 CST 2026","TestViewOperations","test_view_operations","",""
+"测试平移视图","2417","test_pan_view","tests","Thu Apr 02 20:36:22 CST 2026","passed","Thu Apr 02 20:36:25 CST 2026","TestViewOperations","test_view_operations","",""
+"测试连续操作","9577","test_continuous_operations","tests","Thu Apr 02 20:36:31 CST 2026","broken","Thu Apr 02 20:36:41 CST 2026","TestViewOperations","test_view_operations","",""
+"测试旋转视图","3968","test_rotate_view","tests","Thu Apr 02 20:36:16 CST 2026","passed","Thu Apr 02 20:36:20 CST 2026","TestViewOperations","test_view_operations","",""
+"测试重置视图","6400","test_reset_view","tests","Thu Apr 02 20:36:25 CST 2026","passed","Thu Apr 02 20:36:31 CST 2026","TestViewOperations","test_view_operations","",""

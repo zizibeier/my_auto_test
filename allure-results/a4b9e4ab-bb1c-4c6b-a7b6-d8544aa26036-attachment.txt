@@ -1,0 +1,40 @@
+INFO     TestLogger:logger.py:97 ============================================================
+INFO     TestLogger:logger.py:98   测试会话开始
+INFO     TestLogger:logger.py:99 ============================================================
+INFO     TestLogger:logger.py:55 ✅ 浏览器启动成功
+INFO     TestLogger:logger.py:55 加载定位器文件: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\locators\main_page_locators.yaml
+INFO     TestLogger:logger.py:62 ✅ 定位器加载成功: ['main_page']
+INFO     TestLogger:logger.py:55 获取定位器 main_page.file_input: input[type="file"]
+INFO     TestLogger:logger.py:55 获取元素: input[type="file"]
+INFO     TestLogger:logger.py:55 ✅ 模型上传成功: D:\三维\建模模型\方程式测试模型\BJSU (1).SLDASM
+INFO     TestLogger:logger.py:55 获取定位器 main_page.model_loading: .loading-progress
+INFO     TestLogger:logger.py:55 获取元素: .loading-progress
+INFO     TestLogger:logger.py:55 自动查找包含 canvas 的 iframe...
+INFO     TestLogger:logger.py:55 未找到包含 canvas 的 iframe，尝试默认选择器...
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:69 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:55 ✅ Canvas 可见
+INFO     TestLogger:logger.py:55 ✅ Canvas 可见，模型加载完成
+INFO     TestLogger:logger.py:55 ✅ 测试上下文初始化完成
+INFO     TestLogger:logger.py:55 开始测试: unknown
+INFO     TestLogger:logger.py:55 开始测试旋转视图
+INFO     TestLogger:logger.py:55 
+[旋转] 开始，偏移量: (100, 50)
+INFO     TestLogger:logger.py:55 遍历所有 frames 查找 Canvas...
+INFO     TestLogger:logger.py:55 ✅ 在 frame  中找到 Canvas
+INFO     TestLogger:logger.py:55 ✅ Canvas 就绪: 1922x846
+INFO     TestLogger:logger.py:55 [get_canvas_center] ✅ 中心点: (961.00, 487.00)
+INFO     TestLogger:logger.py:55 [get_canvas_center] Canvas 尺寸: 1922.00 x 846.00
+INFO     TestLogger:logger.py:55 鼠标拖拽: (961.0, 487.0) -> (1061.0, 537.0)
+INFO     TestLogger:logger.py:55 旋转测试通过
+INFO     TestLogger:logger.py:55 结束测试: unknown, 耗时: 3973.499536514282ms
