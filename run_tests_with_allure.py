@@ -15,8 +15,8 @@ def start_report_server():
     """启动报告服务器"""
     os.chdir("allure-report")
     handler = http.server.SimpleHTTPRequestHandler
-    with socketserver.TCPServer(("", 8000), handler) as httpd:
-        print(f"✅ 报告服务已启动: http://localhost:8000")
+    with socketserver.TCPServer(("0.0.0.0", 8000), handler) as httpd:
+        print(f"✅ 报告服务已启动: http://{get_local_ip()}:8000")
         httpd.serve_forever()
 
 
@@ -29,7 +29,7 @@ def get_local_ip():
         s.close()
         return ip
     except:
-        return "127.0.0.1"
+        return "0.0.0.0"
 
 
 def main():
