@@ -1,4 +1,6 @@
 # context/context.py
+import os.path
+
 from playwright.sync_api import Page
 from pages.base_page import BasePage
 from methods.view_methods import ViewMethods
@@ -114,9 +116,12 @@ class Context:
             # 使用 base_page 的定位器方法
             file_input = self.base_page.get_element('main_page', 'file_input')
             if file_input.count() > 0:
+                if not os.path.exists(file_path):
+                    raise FileNotFoundError(f"文件不存在: {file_path}")
                 file_input.set_input_files(file_path)
                 log.info(f"✅ 模型上传成功: {file_path}")
                 return True
+
             return False
         except Exception as e:
             log.error(f"❌ 模型上传失败: {e}")
