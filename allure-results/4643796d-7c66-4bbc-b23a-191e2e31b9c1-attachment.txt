@@ -1,0 +1,8 @@
+INFO     TestLogger:logger.py:55 开始测试: unknown
+INFO     TestLogger:logger.py:55 开始测试缩放视图
+INFO     TestLogger:logger.py:55 ✅ Canvas 就绪: 1922x846
+INFO     TestLogger:logger.py:55 [get_canvas_center] ✅ 中心点: (961.00, 487.00)
+INFO     TestLogger:logger.py:55 [get_canvas_center] Canvas 尺寸: 1922.00 x 846.00
+INFO     TestLogger:logger.py:55 鼠标滚轮: (961.0, 487.0) 滚动 (0, 200)
+INFO     TestLogger:logger.py:55 缩放测试通过
+INFO     TestLogger:logger.py:55 结束测试: unknown, 耗时: 2852.7610301971436ms

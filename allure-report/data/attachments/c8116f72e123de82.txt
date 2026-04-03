@@ -1,8 +1,0 @@
-INFO     TestLogger:logger.py:55 开始测试: unknown
-INFO     TestLogger:logger.py:55 开始测试平移视图
-INFO     TestLogger:logger.py:55 ✅ Canvas 就绪: 1922x846
-INFO     TestLogger:logger.py:55 [get_canvas_center] ✅ 中心点: (961.00, 487.00)
-INFO     TestLogger:logger.py:55 [get_canvas_center] Canvas 尺寸: 1922.00 x 846.00
-INFO     TestLogger:logger.py:55 鼠标拖拽: (961.0, 487.0) -> (1061.0, 587.0)
-INFO     TestLogger:logger.py:55 平移测试通过
-INFO     TestLogger:logger.py:55 结束测试: unknown, 耗时: 2421.4186668395996ms

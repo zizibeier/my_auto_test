@@ -1,1 +1,0 @@
-[get_canvas_center] Canvas 尺寸: 1922.00 x 846.00

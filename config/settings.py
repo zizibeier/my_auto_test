@@ -25,8 +25,11 @@ class Config:
     ENV = None
     BASE_URL = "https://3d-viewer.jlc.com/"
 
-    # 测试数据
-    TEST_MODEL_PATH = r"D:\三维\建模模型\方程式测试模型\BJSU (1).SLDASM"
+    # 获取当前文件所在目录
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+    # 拼接路径（自动适配 Windows/Linux）
+    TEST_MODEL_PATH = os.path.join(BASE_DIR, "files", "气垫.STEP")
     # 模型配置
     AUTO_NAVIGATE_TO_DESIGNER = False
     AUTO_UPLOAD_MODEL = True
