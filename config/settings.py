@@ -5,7 +5,7 @@ from pathlib import Path
 
 class Config:
     # 浏览器配置
-    HEADLESS = False
+    HEADLESS = True
     SLOW_MO = 300
 
     # 视口配置
