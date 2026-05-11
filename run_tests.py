@@ -10,13 +10,11 @@ import os
 import sys
 import subprocess
 import argparse
-from datetime import datetime
-from pathlib import Path
 
 # 添加项目根目录到路径
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from utils.email_sender import send_test_report
+from common.utils.email_sender import send_test_report
 
 
 def run_command(cmd):

@@ -3,21 +3,18 @@ import os
 import shutil
 import subprocess
 import socket
-import time
-import threading
 import http.server
 import socketserver
 import platform
-from pathlib import Path
-from utils.email_sender import send_test_report
+from common.utils.email_sender import send_test_report
 
 
 def start_report_server():
     """启动报告服务器"""
-    os.chdir("allure-report")
+    os.chdir("ui/allure-report")
     handler = http.server.SimpleHTTPRequestHandler
     with socketserver.TCPServer(("0.0.0.0", 8000), handler) as httpd:
-        print(f"✅ 报告服务已启动: http://{get_local_ip()}:8000")
+        print(f"✅ 报告服务已启动: http://http://47.93.62.179/:8000")
         httpd.serve_forever()
 
 
@@ -39,10 +36,10 @@ def main():
     print("=" * 50)
     # 先清理旧报告
     print("🧹 清理旧的 Allure 数据...")
-    if os.path.exists("allure-results"):
-        shutil.rmtree("allure-results")
-    if os.path.exists("allure-report"):
-        shutil.rmtree("allure-report")
+    if os.path.exists("ui/allure-results"):
+        shutil.rmtree("ui/allure-results")
+    if os.path.exists("ui/allure-report"):
+        shutil.rmtree("ui/allure-report")
     # 1. 运行测试
     print("运行测试...")
     subprocess.run("pytest tests/test_view_operations.py -v -s --alluredir=allure-results", shell=True)

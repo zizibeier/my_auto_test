@@ -1,0 +1,47 @@
+INFO     TestLogger:logger.py:96 ============================================================
+INFO     TestLogger:logger.py:97   🚀 测试套件开始: TestViewOperations
+INFO     TestLogger:logger.py:98 ============================================================
+INFO     TestLogger:logger.py:96 ============================================================
+INFO     TestLogger:logger.py:97   UI测试会话开始
+INFO     TestLogger:logger.py:98 ============================================================
+INFO     TestLogger:logger.py:54 ✅ 浏览器启动成功
+INFO     TestLogger:logger.py:54 加载定位器文件: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\ui\locators\main_page_locators.yaml
+INFO     TestLogger:logger.py:61 ✅ 定位器加载成功: ['main_page']
+INFO     TestLogger:logger.py:54 ✅ 页面导航成功: https://3d-viewer.jlc.com/
+INFO     TestLogger:logger.py:54 获取定位器 main_page.file_input: input[type="file"]
+INFO     TestLogger:logger.py:54 获取元素: input[type="file"]
+INFO     TestLogger:logger.py:54 上传前文件数: 0
+ERROR    TestLogger:logger.py:68 ❌ ❌ 模型上传失败: 上传后 files 长度为 0，上传失败
+INFO     TestLogger:logger.py:54 获取定位器 main_page.model_loading: .loading-progress
+INFO     TestLogger:logger.py:54 获取元素: .loading-progress
+INFO     TestLogger:logger.py:54 自动查找包含 canvas 的 iframe...
+INFO     TestLogger:logger.py:54 未找到包含 canvas 的 iframe，尝试默认选择器...
+INFO     TestLogger:logger.py:54 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:68 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:54 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:68 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:54 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:68 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:54 遍历所有 frames 查找 Canvas...
+ERROR    TestLogger:logger.py:68 ❌ ❌ 未找到 Canvas
+INFO     TestLogger:logger.py:54 ✅ Canvas 可见
+INFO     TestLogger:logger.py:54 ✅ Canvas 可见，模型加载完成
+INFO     TestLogger:logger.py:54 ✅ UI测试上下文初始化完成
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 📝 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 
+[旋转] 开始，偏移量: (100, 50)
+INFO     TestLogger:logger.py:54 遍历所有 frames 查找 Canvas...
+INFO     TestLogger:logger.py:54 ✅ 在 frame viewerIframe 中找到 Canvas
+INFO     TestLogger:logger.py:54 ✅ Canvas 就绪: 800x501
+INFO     TestLogger:logger.py:54 [get_canvas_center] ✅ 中心点: (400.00, 314.50)
+INFO     TestLogger:logger.py:54 [get_canvas_center] Canvas 尺寸: 800.00 x 501.00
+INFO     TestLogger:logger.py:54 鼠标拖拽: (400.0, 314.5) -> (500.0, 364.5)
+INFO     TestLogger:logger.py:54 旋转操作耗时: 2030.44ms
+INFO     TestLogger:logger.py:61 ✅ ✅ 断言通过: 旋转操作应该成功
+ERROR    TestLogger:logger.py:68 ❌ ❌ 断言失败: 旋转视图 耗时 2030.44ms 超过阈值 500ms
+INFO     TestLogger:logger.py:54 📸 失败截图已保存
+INFO     TestLogger:logger.py:54 ✅ 结束测试: unknown_test 耗时: 7237.82ms
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 结束测试: unknown_test, 耗时: 7242.26ms

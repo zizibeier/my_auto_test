@@ -1,0 +1,13 @@
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 📝 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 ✅ Canvas 就绪: 800x501
+INFO     TestLogger:logger.py:54 [get_canvas_center] ✅ 中心点: (400.00, 314.50)
+INFO     TestLogger:logger.py:54 [get_canvas_center] Canvas 尺寸: 800.00 x 501.00
+INFO     TestLogger:logger.py:54 鼠标拖拽: (400.0, 314.5) -> (500.0, 414.5)
+INFO     TestLogger:logger.py:61 ✅ ✅ 断言通过: 平移操作失败
+INFO     TestLogger:logger.py:54 📸 截图已保存: 平移后视图
+INFO     TestLogger:logger.py:54 平移测试通过
+INFO     TestLogger:logger.py:54 ✅ 结束测试: unknown_test 耗时: 2227.36ms
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 结束测试: unknown_test, 耗时: 2231.85ms

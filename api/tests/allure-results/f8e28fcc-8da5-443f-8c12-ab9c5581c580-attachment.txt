@@ -1,0 +1,25 @@
+POST https://api.forface3d.com/forface/external/analysis/uploadFile
+
+Headers:
+{
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "application/json",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzT0RBMk1ERXlNaXdpZEc5clpXNWZhVzVtYnlJNmV5SnFiR05EZFhOMGIyMWxja052WkdVaU9pSTFNakU1TnprMlFTSXNJbUZ3Y0VsdVptOGlPbnNpWVhCd1gybGtJam9pTVRjd01ERXpNREF4TkRVek5ERTRORGsyTUNJc0luSmxiR0YwWldSZmRYTmxjbDlwWkNJNk1UYzRmU3dpWVhCd1NXUWlPaUpGTURSR1JrUXdSalF3UWpJelFUZzBSVE15T0RKQk9EbEZNalpHUlVFMFFpSXNJbkJ5YjJSMVkzUkpibVp2SWpwYklrWXpRelZDTVRZeVFqaENSREE0TVVORU1rRXpRamhFUTBVNVJqTkVRVEV5SWl3aVFrWkVNalkwTURKR1JETkNSa0k0TXpFeVJUY3hSVVk1TmtGRVFqbENReklpTENJMVFqSkJNa0ZHT0VJek5qazJNelpHTlRkRVFqSXhSRGxETURZME56a3dNU0lzSWpsRE9UZ3dNelZGTUVNMk1qVTNNVU13TkVJNU1Ea3hSVEZETlRJME5qQkZJaXdpTVVFNU1VWTRNa0kyUWtWQ01qa3hSamMwUmtVNVF6UkNSak0xTTBNeFFUa2lYWDBzSW1semN5STZJa3BNUTE5R1QxSkdRVU5GSWl3aVpYaHdJam94TnpjNE1EWTNNekl5TENKcFlYUWlPakUzTnpnd05qQXhNako5LlhxakFpUVRiYmh1SzBTcFVUSl90dTAzY2N5c1hjUjZyVC1pVmRmdWxfRThZV1J6Wm1Ga2MyWmhaR1poRmtSbVlYTmtaZz09"
+}
+
+Data:
+{
+  "useCache": "true",
+  "extraInfo": "极小薄壁阈值",
+  "previewType": "1",
+  "needBusinessService": "1",
+  "needStlLightWeight": "0",
+  "minimumThicknessThreshold": "0.1",
+  "highRiskAreaDefine": "100",
+  "coverColor": "#85A2CD"
+}
+
+Files: ['file']
+

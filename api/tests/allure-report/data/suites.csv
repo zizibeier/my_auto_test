@@ -1,0 +1,456 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+        ### 测试用例详情
+        - 用例名称: 仅预览
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-3.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 仅预览 | 11196452-5b62-4d52-9919-059bf6d9410c
+        ","230","【仅预览】测试","api.tests","Wed May 06 17:35:33 CST 2026","passed","Wed May 06 17:35:33 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-带Webhook
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019623153447981056.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试Webhook回调
+        ","598","【标准上传-带Webhook】测试","api.tests","Wed May 06 17:35:23 CST 2026","passed","Wed May 06 17:35:23 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 仅预览
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-3.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 仅预览 | 11196452-5b62-4d52-9919-059bf6d9410c
+        ","401","【仅预览】测试","api.tests","Wed May 06 17:35:45 CST 2026","passed","Wed May 06 17:35:46 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试使用缓存 | 1df15342-6f1f-4c0e-ad4b-2cb9c02cb2dd
+        ","227","【标准上传-使用缓存】测试","api.tests","Wed May 06 17:35:22 CST 2026","passed","Wed May 06 17:35:23 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最小值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\目镜座  cb-mjz.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极小薄壁阈值
+        ","377","【薄壁阈值-最小值】测试","api.tests","Wed May 06 17:35:54 CST 2026","passed","Wed May 06 17:35:54 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-透传参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试透传参数 | 4d7d95e6-4afd-478c-a6f7-90de114a6b3d
+        ","654","【标准上传-透传参数】测试","api.tests","Wed May 06 17:35:23 CST 2026","passed","Wed May 06 17:35:24 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 异常-无效预览格式
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 99
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 无效预览格式测试
+        ","206","【异常-无效预览格式】测试","api.tests","Wed May 06 17:35:52 CST 2026","passed","Wed May 06 17:35:52 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-f3d
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: f3d预览 | 2026-05-06 17:35:19
+        ","188","【预览格式-f3d】测试","api.tests","Wed May 06 17:35:26 CST 2026","passed","Wed May 06 17:35:26 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-黑色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2026188167434092544.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 黑色封面
+        ","161","【封面颜色-黑色】测试","api.tests","Wed May 06 17:35:55 CST 2026","passed","Wed May 06 17:35:56 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-不使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: false
+        - 扩展信息: 测试不使用缓存 | a3ff2b8c-ba34-4369-b411-4c2a88926261
+        ","150","【标准上传-不使用缓存】测试","api.tests","Wed May 06 17:35:23 CST 2026","passed","Wed May 06 17:35:23 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"测试：文件不存在","1","测试：上传不存在的文件","api.tests","Wed May 06 17:35:56 CST 2026","passed","Wed May 06 17:35:56 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 全部启用
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019623153447981056.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 1
+        - 使用缓存: true
+        - 扩展信息: 完整处理 | 0da4ee88-a648-49ea-9807-88aff3afd33e
+        ","5170","【全部启用】测试","api.tests","Wed May 06 17:35:28 CST 2026","passed","Wed May 06 17:35:33 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 异常-文件不存在
+        - 文件名: not_exist.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 文件不存在测试
+        ","0","【异常-文件不存在】测试","api.tests","Wed May 06 17:35:35 CST 2026","broken","Wed May 06 17:35:35 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试使用缓存 | 1df15342-6f1f-4c0e-ad4b-2cb9c02cb2dd
+        ","239","【标准上传-使用缓存】测试","api.tests","Wed May 06 17:35:38 CST 2026","passed","Wed May 06 17:35:38 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 回归-多类型文件
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\四代活动板（抖音aAnaloger）(1).stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 随机文件类型 | bb60f2d6-7f0b-41ce-901c-75d330c3792c
+        ","311","【回归-多类型文件】测试","api.tests","Wed May 06 17:35:51 CST 2026","passed","Wed May 06 17:35:51 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-黑色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2026188167434092544.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 黑色封面
+        ","150","【封面颜色-黑色】测试","api.tests","Wed May 06 17:35:28 CST 2026","passed","Wed May 06 17:35:28 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-默认参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试默认参数 | 2026-05-06 17:35:19
+        ","256","【标准上传-默认参数】测试","api.tests","Wed May 06 17:35:52 CST 2026","passed","Wed May 06 17:35:52 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-黑色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2026188167434092544.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 黑色封面
+        ","134","【封面颜色-黑色】测试","api.tests","Wed May 06 17:35:44 CST 2026","passed","Wed May 06 17:35:44 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-f3d
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: f3d预览 | 2026-05-06 17:35:19
+        ","177","【预览格式-f3d】测试","api.tests","Wed May 06 17:35:43 CST 2026","passed","Wed May 06 17:35:43 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试使用缓存 | 1df15342-6f1f-4c0e-ad4b-2cb9c02cb2dd
+        ","165","【标准上传-使用缓存】测试","api.tests","Wed May 06 17:35:52 CST 2026","passed","Wed May 06 17:35:52 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-不使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: false
+        - 扩展信息: 测试不使用缓存 | a3ff2b8c-ba34-4369-b411-4c2a88926261
+        ","696","【标准上传-不使用缓存】测试","api.tests","Wed May 06 17:35:38 CST 2026","passed","Wed May 06 17:35:39 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-红色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\主体.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 红色封面
+        ","571","【封面颜色-红色】测试","api.tests","Wed May 06 17:35:44 CST 2026","passed","Wed May 06 17:35:44 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-透传参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试透传参数 | 4d7d95e6-4afd-478c-a6f7-90de114a6b3d
+        ","193","【标准上传-透传参数】测试","api.tests","Wed May 06 17:35:42 CST 2026","passed","Wed May 06 17:35:43 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-透传参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-2.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试透传参数 | 4d7d95e6-4afd-478c-a6f7-90de114a6b3d
+        ","217","【标准上传-透传参数】测试","api.tests","Wed May 06 17:35:53 CST 2026","passed","Wed May 06 17:35:54 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最大值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\脉冲源30_盒体.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极大薄壁阈值
+        ","317","【薄壁阈值-最大值】测试","api.tests","Wed May 06 17:35:26 CST 2026","passed","Wed May 06 17:35:27 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-默认参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试默认参数 | 2026-05-06 17:35:19
+        ","250","【标准上传-默认参数】测试","api.tests","Wed May 06 17:35:38 CST 2026","passed","Wed May 06 17:35:38 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-不使用缓存
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: false
+        - 扩展信息: 测试不使用缓存 | a3ff2b8c-ba34-4369-b411-4c2a88926261
+        ","217","【标准上传-不使用缓存】测试","api.tests","Wed May 06 17:35:52 CST 2026","passed","Wed May 06 17:35:53 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 无任何处理
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-1.stp
+        - 预览格式: 0
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 无处理 | c56b48c4-3232-4dd0-9b00-c8a722671690
+        ","1367","【无任何处理】测试","api.tests","Wed May 06 17:35:33 CST 2026","passed","Wed May 06 17:35:35 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最小值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\目镜座  cb-mjz.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极小薄壁阈值
+        ","404","【薄壁阈值-最小值】测试","api.tests","Wed May 06 17:35:26 CST 2026","passed","Wed May 06 17:35:26 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 无任何处理
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\面板-1.stp
+        - 预览格式: 0
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 无处理 | c56b48c4-3232-4dd0-9b00-c8a722671690
+        ","2744","【无任何处理】测试","api.tests","Wed May 06 17:35:46 CST 2026","passed","Wed May 06 17:35:49 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-默认参数
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试默认参数 | 2026-05-06 17:35:19
+        ","456","【标准上传-默认参数】测试","api.tests","Wed May 06 17:35:22 CST 2026","passed","Wed May 06 17:35:22 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-glb
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019622217539375104.stp
+        - 预览格式: 0
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: glb预览 | 2026-05-06 17:35:19
+        ","276","【预览格式-glb】测试","api.tests","Wed May 06 17:35:43 CST 2026","passed","Wed May 06 17:35:43 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-红色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\主体.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 红色封面
+        ","572","【封面颜色-红色】测试","api.tests","Wed May 06 17:35:55 CST 2026","passed","Wed May 06 17:35:55 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最大值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\脉冲源30_盒体.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极大薄壁阈值
+        ","244","【薄壁阈值-最大值】测试","api.tests","Wed May 06 17:35:54 CST 2026","passed","Wed May 06 17:35:55 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最大值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\脉冲源30_盒体.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极大薄壁阈值
+        ","254","【薄壁阈值-最大值】测试","api.tests","Wed May 06 17:35:43 CST 2026","passed","Wed May 06 17:35:44 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 异常-文件不存在
+        - 文件名: not_exist.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 文件不存在测试
+        ","1","【异常-文件不存在】测试","api.tests","Wed May 06 17:35:51 CST 2026","broken","Wed May 06 17:35:51 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-f3d
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: f3d预览 | 2026-05-06 17:35:19
+        ","171","【预览格式-f3d】测试","api.tests","Wed May 06 17:35:54 CST 2026","passed","Wed May 06 17:35:54 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-glb
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019622217539375104.stp
+        - 预览格式: 0
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: glb预览 | 2026-05-06 17:35:19
+        ","212","【预览格式-glb】测试","api.tests","Wed May 06 17:35:54 CST 2026","passed","Wed May 06 17:35:54 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-带Webhook
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019623153447981056.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试Webhook回调
+        ","783","【标准上传-带Webhook】测试","api.tests","Wed May 06 17:35:53 CST 2026","passed","Wed May 06 17:35:53 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+测试：上传并等待回调
+","181089","测试：webhook回调：验证存在analysis.part.finished","api.tests","Wed May 06 17:35:56 CST 2026","failed","Wed May 06 17:38:57 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 预览格式-glb
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019622217539375104.stp
+        - 预览格式: 0
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: glb预览 | 2026-05-06 17:35:19
+        ","1410","【预览格式-glb】测试","api.tests","Wed May 06 17:35:24 CST 2026","passed","Wed May 06 17:35:26 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 回归-多类型文件
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\四代活动板（抖音aAnaloger）(1).stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 随机文件类型 | bb60f2d6-7f0b-41ce-901c-75d330c3792c
+        ","280","【回归-多类型文件】测试","api.tests","Wed May 06 17:35:35 CST 2026","passed","Wed May 06 17:35:35 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 标准上传-带Webhook
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019623153447981056.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 测试Webhook回调
+        ","1979","【标准上传-带Webhook】测试","api.tests","Wed May 06 17:35:40 CST 2026","passed","Wed May 06 17:35:42 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 薄壁阈值-最小值
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\目镜座  cb-mjz.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 极小薄壁阈值
+        ","312","【薄壁阈值-最小值】测试","api.tests","Wed May 06 17:35:43 CST 2026","passed","Wed May 06 17:35:43 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"测试：零件解析文件链接上传","0","测试：零件解析文件链接上传","api.tests","Wed May 06 17:35:56 CST 2026","broken","Wed May 06 17:35:56 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 封面颜色-红色
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\主体.stp
+        - 预览格式: 1
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 红色封面
+        ","956","【封面颜色-红色】测试","api.tests","Wed May 06 17:35:27 CST 2026","passed","Wed May 06 17:35:28 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 异常-无效预览格式
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\配重块.stp
+        - 预览格式: 99
+        - 业务服务: 0
+        - 轻量化: 0
+        - 使用缓存: true
+        - 扩展信息: 无效预览格式测试
+        ","1252","【异常-无效预览格式】测试","api.tests","Wed May 06 17:35:37 CST 2026","passed","Wed May 06 17:35:38 CST 2026","TestAnalysisEndpoints","test_analysis","",""
+"
+        ### 测试用例详情
+        - 用例名称: 全部启用
+        - 文件名: C:\Users\wangziyun\PycharmProjects\3d-viewer-test\files\2019623153447981056.stp
+        - 预览格式: 1
+        - 业务服务: 1
+        - 轻量化: 1
+        - 使用缓存: true
+        - 扩展信息: 完整处理 | 0da4ee88-a648-49ea-9807-88aff3afd33e
+        ","670","【全部启用】测试","api.tests","Wed May 06 17:35:44 CST 2026","passed","Wed May 06 17:35:45 CST 2026","TestAnalysisEndpoints","test_analysis","",""

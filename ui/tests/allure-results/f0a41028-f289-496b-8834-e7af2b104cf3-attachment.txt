@@ -1,0 +1,15 @@
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 📝 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 ✅ 结束测试: unknown_test 耗时: 15.59ms
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 结束测试: unknown_test, 耗时: 22.20ms
+INFO     TestLogger:logger.py:54 ✅ 环境清理完成
+INFO     TestLogger:logger.py:54 ✅ UI测试上下文已清理
+INFO     TestLogger:logger.py:54 ✅ 浏览器已关闭
+INFO     TestLogger:logger.py:96 ============================================================
+INFO     TestLogger:logger.py:97   🏁 测试套件结束: TestViewOperations 耗时: 29115.54ms
+INFO     TestLogger:logger.py:98 ============================================================
+INFO     TestLogger:logger.py:96 ============================================================
+INFO     TestLogger:logger.py:97   UI测试会话结束
+INFO     TestLogger:logger.py:98 ============================================================

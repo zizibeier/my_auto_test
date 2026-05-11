@@ -1,0 +1,106 @@
+2026-04-30 14:49:12,278 - INFO - 🚀 初始化 API 上下文
+2026-04-30 14:49:12,282 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-30 14:49:12,288 - INFO - 正在获取新的 Access Token...
+2026-04-30 14:49:12,551 - INFO - ✅ Access Token 获取成功
+2026-04-30 14:49:12,558 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTnpVek1UYzFNaXdpZEc5clpXNWZhVzVtYnlJNmV5SnFiR05EZFhOMGIyMWxja052WkdVaU9pSTFNakU1TnprMlFTSXNJbUZ3Y0VsdVptOGlPbnNpWVhCd1gybGtJam9pTVRjd01ERXpNREF4TkRVek5ERTRORGsyTUNJc0luSmxiR0YwWldSZmRYTmxjbDlwWkNJNk1UYzRmU3dpWVhCd1NXUWlPaUpGTURSR1JrUXdSalF3UWpJelFUZzBSVE15T0RKQk9EbEZNalpHUlVFMFFpSXNJbkJ5YjJSMVkzUkpibVp2SWpwYklrWXpRelZDTVRZeVFqaENSREE0TVVORU1rRXpRamhFUTBVNVJqTkVRVEV5SWl3aVFrWkVNalkwTURKR1JETkNSa0k0TXpFeVJUY3hSVVk1TmtGRVFqbENReklpTENJMVFqSkJNa0ZHT0VJek5qazJNelpHTlRkRVFqSXhSRGxETURZME56a3dNU0lzSWpsRE9UZ3dNelZGTUVNMk1qVTNNVU13TkVJNU1Ea3hSVEZETlRJME5qQkZJaXdpTVVFNU1VWTRNa0kyUWtWQ01qa3hSamMwUmtVNVF6UkNSak0xTTBNeFFUa2lYWDBzSW1semN5STZJa3BNUTE5R1QxSkdRVU5GSWl3aVpYaHdJam94TnpjM05UTTRPVFV5TENKcFlYUWlPakUzTnpjMU16RTNOVEo5Lk1fNTRHZ08yQzdEYV9BVGFSTjdSUXdMcUtnQ2syQ2xYUW5KSjBMRURIU1lZV1J6Wm1Ga2MyWmhaR1poRmtSbVlYTmtaZz09
+2026-04-30 14:49:12,578 - INFO - ✅ 认证 token 已设置
+2026-04-30 14:49:12,581 - INFO - ✅ API 自动认证成功
+2026-04-30 14:49:17,241 - INFO - 🧹 清理 API 上下文
+2026-04-30 14:49:17,244 - INFO - ✅ API 上下文清理完成
+2026-04-30 14:49:17,247 - INFO - ✅ API 上下文已关闭
+2026-04-30 17:17:14,936 - INFO - 🚀 初始化 API 上下文
+2026-04-30 17:17:14,940 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-30 17:17:14,943 - INFO - 正在获取新的 Access Token...
+2026-04-30 17:17:15,435 - INFO - ✅ Access Token 获取成功
+2026-04-30 17:17:15,438 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTnpVME1EWXpOU3dpZEc5clpXNWZhVzVtYnlJNmV5SnFiR05EZFhOMGIyMWxja052WkdVaU9pSTFNakU1TnprMlFTSXNJbUZ3Y0VsdVptOGlPbnNpWVhCd1gybGtJam9pTVRjd01ERXpNREF4TkRVek5ERTRORGsyTUNJc0luSmxiR0YwWldSZmRYTmxjbDlwWkNJNk1UYzRmU3dpWVhCd1NXUWlPaUpGTURSR1JrUXdSalF3UWpJelFUZzBSVE15T0RKQk9EbEZNalpHUlVFMFFpSXNJbkJ5YjJSMVkzUkpibVp2SWpwYklrWXpRelZDTVRZeVFqaENSREE0TVVORU1rRXpRamhFUTBVNVJqTkVRVEV5SWl3aVFrWkVNalkwTURKR1JETkNSa0k0TXpFeVJUY3hSVVk1TmtGRVFqbENReklpTENJMVFqSkJNa0ZHT0VJek5qazJNelpHTlRkRVFqSXhSRGxETURZME56a3dNU0lzSWpsRE9UZ3dNelZGTUVNMk1qVTNNVU13TkVJNU1Ea3hSVEZETlRJME5qQkZJaXdpTVVFNU1VWTRNa0kyUWtWQ01qa3hSamMwUmtVNVF6UkNSak0xTTBNeFFUa2lYWDBzSW1semN5STZJa3BNUTE5R1QxSkdRVU5GSWl3aVpYaHdJam94TnpjM05UUTNPRE0xTENKcFlYUWlPakUzTnpjMU5EQTJNelY5LjE4aS1jX01qcHFsYTN4Q0JnMFkzUVlnZV9yMHVpaERKOUlZRU94SDlFRkFZV1J6Wm1Ga2MyWmhaR1poRmtSbVlYTmtaZz09
+2026-04-30 17:17:15,441 - INFO - ✅ 认证 token 已设置
+2026-04-30 17:17:15,443 - INFO - ✅ API 自动认证成功
+2026-04-30 17:17:15,453 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:15,761 - INFO - 📥 200 (306ms)
+2026-04-30 17:17:15,786 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:16,555 - INFO - 📥 200 (766ms)
+2026-04-30 17:17:16,581 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:17,000 - INFO - 📥 200 (416ms)
+2026-04-30 17:17:17,027 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:17,817 - INFO - 📥 200 (787ms)
+2026-04-30 17:17:17,838 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:18,091 - INFO - 📥 200 (251ms)
+2026-04-30 17:17:18,115 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:18,599 - INFO - 📥 200 (482ms)
+2026-04-30 17:17:18,624 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:18,893 - INFO - 📥 200 (266ms)
+2026-04-30 17:17:18,915 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:19,207 - INFO - 📥 200 (290ms)
+2026-04-30 17:17:19,233 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:19,494 - INFO - 📥 200 (259ms)
+2026-04-30 17:17:19,518 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:19,857 - INFO - 📥 200 (337ms)
+2026-04-30 17:17:19,879 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:20,773 - INFO - 📥 200 (892ms)
+2026-04-30 17:17:20,794 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:21,585 - INFO - 📥 200 (788ms)
+2026-04-30 17:17:21,606 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:21,845 - INFO - 📥 200 (237ms)
+2026-04-30 17:17:21,874 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:22,078 - INFO - 📥 200 (201ms)
+2026-04-30 17:17:22,139 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:22,498 - INFO - 📥 200 (261ms)
+2026-04-30 17:17:22,932 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:23,920 - INFO - 📥 200 (986ms)
+2026-04-30 17:17:23,951 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:24,456 - INFO - 📥 200 (503ms)
+2026-04-30 17:17:24,489 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:25,500 - INFO - 📥 200 (1009ms)
+2026-04-30 17:17:25,532 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:25,943 - INFO - 📥 200 (409ms)
+2026-04-30 17:17:25,964 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:26,582 - INFO - 📥 200 (617ms)
+2026-04-30 17:17:27,235 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:27,516 - INFO - 📥 200 (265ms)
+2026-04-30 17:17:27,553 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:28,028 - INFO - 📥 200 (471ms)
+2026-04-30 17:17:28,074 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:28,311 - INFO - 📥 200 (233ms)
+2026-04-30 17:17:28,340 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:28,650 - INFO - 📥 200 (307ms)
+2026-04-30 17:17:28,682 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:28,965 - INFO - 📥 200 (280ms)
+2026-04-30 17:17:29,005 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:29,531 - INFO - 📥 200 (515ms)
+2026-04-30 17:17:29,551 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:30,430 - INFO - 📥 200 (877ms)
+2026-04-30 17:17:31,262 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:32,105 - INFO - 📥 200 (835ms)
+2026-04-30 17:17:32,312 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:32,595 - INFO - 📥 200 (271ms)
+2026-04-30 17:17:32,628 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:32,837 - INFO - 📥 200 (207ms)
+2026-04-30 17:17:32,861 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:33,454 - INFO - 📥 200 (591ms)
+2026-04-30 17:17:33,510 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:33,955 - INFO - 📥 200 (443ms)
+2026-04-30 17:17:33,987 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:34,726 - INFO - 📥 200 (737ms)
+2026-04-30 17:17:34,754 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:35,992 - INFO - 📥 200 (1235ms)
+2026-04-30 17:17:36,014 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:36,416 - INFO - 📥 200 (400ms)
+2026-04-30 17:17:36,448 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:37,235 - INFO - 📥 200 (783ms)
+2026-04-30 17:17:37,538 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:37,894 - INFO - 📥 200 (353ms)
+2026-04-30 17:17:39,926 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:40,354 - INFO - 📥 200 (390ms)
+2026-04-30 17:17:40,406 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:40,576 - INFO - 📥 200 (168ms)
+2026-04-30 17:17:40,624 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:40,825 - INFO - 📥 200 (196ms)
+2026-04-30 17:17:40,868 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:41,028 - INFO - 📥 200 (156ms)
+2026-04-30 17:17:41,065 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:41,332 - INFO - 📥 200 (263ms)
+2026-04-30 17:17:41,362 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-30 17:17:41,900 - INFO - 📥 200 (536ms)
+2026-04-30 17:17:42,405 - INFO - 🧹 清理 API 上下文
+2026-04-30 17:17:42,526 - INFO - ✅ API 上下文清理完成
+2026-04-30 17:17:42,533 - INFO - ✅ API 上下文已关闭

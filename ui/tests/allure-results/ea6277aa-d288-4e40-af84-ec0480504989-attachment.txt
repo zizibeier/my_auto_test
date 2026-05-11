@@ -1,0 +1,13 @@
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 📝 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 开始测试: unknown_test
+INFO     TestLogger:logger.py:54 ✅ Canvas 就绪: 800x501
+INFO     TestLogger:logger.py:54 [get_canvas_center] ✅ 中心点: (400.00, 314.50)
+INFO     TestLogger:logger.py:54 [get_canvas_center] Canvas 尺寸: 800.00 x 501.00
+INFO     TestLogger:logger.py:54 鼠标滚轮: (400.0, 314.5) 滚动 (0, 200)
+INFO     TestLogger:logger.py:61 ✅ ✅ 断言通过: 缩放操作失败
+INFO     TestLogger:logger.py:54 🎨 Canvas截图已保存: 缩放后视图
+INFO     TestLogger:logger.py:54 缩放测试通过
+INFO     TestLogger:logger.py:54 ✅ 结束测试: unknown_test 耗时: 1879.98ms
+INFO     TestLogger:logger.py:54 ============================================================
+INFO     TestLogger:logger.py:54 结束测试: unknown_test, 耗时: 1890.10ms

@@ -1,0 +1,23 @@
+{
+  "test_name": "unknown_test",
+  "total_metrics": 2,
+  "passed": 0,
+  "failed": 2,
+  "total_time_ms": 7231.48,
+  "metrics": [
+    {
+      "name": "模型旋转",
+      "value": 2030.4408073425293,
+      "unit": "ms",
+      "threshold": 500,
+      "timestamp": 1775553278.7823577
+    },
+    {
+      "name": "旋转视图",
+      "value": 2030.4408073425293,
+      "unit": "ms",
+      "threshold": 500,
+      "timestamp": 1775553278.7902029
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+2026-04-10 17:22:39,545 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:22:39,547 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:22:39,550 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:22:39,691 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:22:39,695 - INFO - ✅ API 自动认证成功
+2026-04-10 17:22:39,970 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:22:39,974 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:22:39,976 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:26:47,937 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:26:47,941 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:26:47,944 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:26:48,085 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:26:48,088 - INFO - ✅ API 自动认证成功
+2026-04-10 17:26:48,623 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:26:48,626 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:26:48,629 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:33:55,666 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:33:55,668 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:33:55,672 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:33:55,867 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:33:55,870 - INFO - ✅ API 自动认证成功
+2026-04-10 17:33:56,184 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:33:56,186 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:33:56,187 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:34:48,923 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:34:48,926 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:34:48,933 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:34:49,047 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:34:49,050 - INFO - ✅ API 自动认证成功
+2026-04-10 17:34:49,601 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:34:49,740 - INFO - 📥 200 (137ms)
+2026-04-10 17:34:50,351 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:34:50,352 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:34:50,354 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:40:25,686 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:40:25,688 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:40:25,691 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:40:25,889 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:40:25,891 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5EQXlOU3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1USXlOU3dpYVdGMElqb3hOemMxT0RFME1ESTFmUS5qVWlwTEEzdEJnbUN6Y0tTc0FUenhSR2NYQlN0TE9jMVpPWmJFbDFmX1hZWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:40:25,893 - INFO - ✅ API 自动认证成功
+2026-04-10 17:40:26,370 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:40:26,457 - INFO - 📥 200 (86ms)
+2026-04-10 17:40:26,865 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:40:26,867 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:40:26,868 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:44:17,935 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:44:17,937 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:44:17,940 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:44:18,054 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:44:18,057 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5ESTFPQ3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1UUTFPQ3dpYVdGMElqb3hOemMxT0RFME1qVTRmUS5xUXg0Y3JhOEM1UkstU3ZxR3I0M3ZnQ2JFTGl3VUNQVU55empRVlVvUjIwWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:44:18,060 - INFO - ✅ API 自动认证成功
+2026-04-10 17:44:18,065 - INFO - 上传request<module 'requests' from 'C:\\Users\\wangziyun\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py'>
+2026-04-10 17:44:18,517 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:44:18,656 - INFO - 📥 200 (137ms)
+2026-04-10 17:44:18,744 - INFO - 上传request<module 'requests' from 'C:\\Users\\wangziyun\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py'>
+2026-04-10 17:44:18,744 - INFO - 上传request<module 'requests' from 'C:\\Users\\wangziyun\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py'>
+2026-04-10 17:44:18,745 - INFO - 上传request<module 'requests' from 'C:\\Users\\wangziyun\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py'>
+2026-04-10 17:44:19,047 - INFO - 上传request<module 'requests' from 'C:\\Users\\wangziyun\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py'>
+2026-04-10 17:44:19,326 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:44:19,328 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:44:19,331 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:46:06,762 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:46:06,792 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:46:06,811 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:46:07,296 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:46:07,298 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5ETTJOeXdpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1UVTJOeXdpYVdGMElqb3hOemMxT0RFME16WTNmUS44SzhTU3VDRVhKeGJLTGJPVUtNdE51X0VibDFPOThsY3U5d3JuV0RKWmFrWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:46:07,300 - INFO - ✅ API 自动认证成功
+2026-04-10 17:46:07,759 - INFO - 上传request<Response [200]>
+2026-04-10 17:46:08,268 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:46:08,519 - INFO - 📥 200 (245ms)
+2026-04-10 17:46:08,857 - INFO - 上传request<Response [200]>
+2026-04-10 17:46:08,868 - INFO - 上传request<Response [200]>
+2026-04-10 17:46:08,893 - INFO - 上传request<Response [200]>
+2026-04-10 17:46:09,198 - INFO - 上传request<Response [200]>
+2026-04-10 17:46:09,226 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:46:09,230 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:46:09,232 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:47:08,494 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:47:08,496 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:47:08,500 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:47:08,705 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:47:08,707 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5EUXlPQ3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1UWXlPQ3dpYVdGMElqb3hOemMxT0RFME5ESTRmUS50d1d3SktMOExYN2xIZjNIVnE5bEJwWW1JeGJBNFRHLU5hSnM0Q0hlaVFRWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:47:08,709 - INFO - ✅ API 自动认证成功
+2026-04-10 17:47:08,890 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:47:09,303 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:47:09,383 - INFO - 📥 200 (76ms)
+2026-04-10 17:47:09,560 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:47:09,561 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:47:09,607 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:47:09,790 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:47:09,829 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:47:09,831 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:47:09,833 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:48:19,222 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:48:19,224 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:48:19,227 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:48:19,483 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:48:19,485 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5EUTVPU3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1UWTVPU3dpYVdGMElqb3hOemMxT0RFME5EazVmUS5hS1BYVmZpaWZMMjF3a0NuOWNldFRPT2FPUHRuUUJBVHFNamE1dTJQMm00WVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:48:19,487 - INFO - ✅ API 自动认证成功
+2026-04-10 17:48:19,784 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'file': ('主体.stp', <_io.BufferedReader name='C:\\Users\\wangziyun\\PycharmProjects\\3d-viewer-test\\files\\主体.stp'>, 'multipart/form-data')}{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:48:19,972 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:48:20,100 - INFO - 📥 200 (126ms)
+2026-04-10 17:48:20,380 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'file': ('配重块.stp', <_io.BufferedReader name='C:\\Users\\wangziyun\\PycharmProjects\\3d-viewer-test\\files\\配重块.stp'>, 'multipart/form-data')}{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:48:20,397 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'file': ('配重块.stp', <_io.BufferedReader name='C:\\Users\\wangziyun\\PycharmProjects\\3d-viewer-test\\files\\配重块.stp'>, 'multipart/form-data')}{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:48:20,420 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'file': ('配重块.stp', <_io.BufferedReader name='C:\\Users\\wangziyun\\PycharmProjects\\3d-viewer-test\\files\\配重块.stp'>, 'multipart/form-data')}{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:48:20,678 - INFO - 上传requesthttps://api.forface3d.com/forface/external/analysis/uploadFile{'file': ('配重块.stp', <_io.BufferedReader name='C:\\Users\\wangziyun\\PycharmProjects\\3d-viewer-test\\files\\配重块.stp'>, 'multipart/form-data')}{'code': '10207', 'msg': '文件为必传项', 'data': None, 'success': False}
+2026-04-10 17:48:20,704 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:48:20,706 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:48:20,708 - INFO - ✅ API 上下文已关闭
+2026-04-10 17:58:11,644 - INFO - 🚀 初始化 API 上下文
+2026-04-10 17:58:11,649 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 17:58:11,652 - INFO - 正在获取新的 Access Token...
+2026-04-10 17:58:11,865 - INFO - ✅ Access Token 获取成功
+2026-04-10 17:58:11,867 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5UQTVNU3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1qSTVNU3dpYVdGMElqb3hOemMxT0RFMU1Ea3hmUS43VnNLR3ZmSHFUci1ZQTlKOWlNbHBSOFZhaWhlR2hEVDFaaDFfMzBfWEJvWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 17:58:11,870 - INFO - ✅ API 自动认证成功
+2026-04-10 17:58:11,875 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:58:12,247 - INFO - 📥 200 (368ms)
+2026-04-10 17:58:12,549 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:58:12,551 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:58:12,551 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:58:12,778 - INFO - 📥 200 (225ms)
+2026-04-10 17:58:12,865 - INFO - 📥 200 (310ms)
+2026-04-10 17:58:12,897 - INFO - 📥 200 (344ms)
+2026-04-10 17:58:12,972 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 17:58:13,148 - INFO - 📥 200 (173ms)
+2026-04-10 17:58:13,173 - INFO - 🧹 清理 API 上下文
+2026-04-10 17:58:13,175 - INFO - ✅ API 上下文清理完成
+2026-04-10 17:58:13,177 - INFO - ✅ API 上下文已关闭
+2026-04-10 18:07:10,621 - INFO - 🚀 初始化 API 上下文
+2026-04-10 18:07:10,623 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 18:07:10,627 - INFO - 正在获取新的 Access Token...
+2026-04-10 18:07:10,872 - INFO - ✅ Access Token 获取成功
+2026-04-10 18:07:10,874 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5UWXpNQ3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU1qZ3pNQ3dpYVdGMElqb3hOemMxT0RFMU5qTXdmUS5EcENmTGVQNmJDeTJfdFJEaUJmUEV5dzhsNjBlNjg3TTVlTzdyZ09naXFFWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 18:07:10,876 - INFO - ✅ 认证 token 已设置
+2026-04-10 18:07:10,878 - INFO - ✅ API 自动认证成功
+2026-04-10 18:07:10,883 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:07:11,061 - INFO - 📥 200 (177ms)
+2026-04-10 18:07:11,257 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:07:11,258 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:07:11,258 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:07:11,380 - INFO - 📥 200 (121ms)
+2026-04-10 18:07:11,427 - INFO - 📥 200 (166ms)
+2026-04-10 18:07:11,468 - INFO - 📥 200 (207ms)
+2026-04-10 18:07:11,530 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:07:11,670 - INFO - 📥 200 (138ms)
+2026-04-10 18:07:11,697 - INFO - 🧹 清理 API 上下文
+2026-04-10 18:07:11,699 - INFO - ✅ API 上下文清理完成
+2026-04-10 18:07:11,701 - INFO - ✅ API 上下文已关闭
+2026-04-10 18:11:30,098 - INFO - 🚀 初始化 API 上下文
+2026-04-10 18:11:30,101 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 18:11:30,105 - INFO - 正在获取新的 Access Token...
+2026-04-10 18:11:30,298 - INFO - ✅ Access Token 获取成功
+2026-04-10 18:11:30,301 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5UZzVNQ3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU16QTVNQ3dpYVdGMElqb3hOemMxT0RFMU9Ea3dmUS5ZVDBXRG5obEZ0S3FwVjI0TnBQVnVrTV9kTFJxQi1feGZLREhkN2F4MFhVWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 18:11:30,303 - INFO - ✅ 认证 token 已设置
+2026-04-10 18:11:30,305 - INFO - ✅ API 自动认证成功
+2026-04-10 18:11:30,310 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:11:30,609 - INFO - 📥 200 (297ms)
+2026-04-10 18:11:30,648 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:11:30,649 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:11:30,649 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:11:30,897 - INFO - 📥 200 (246ms)
+2026-04-10 18:11:30,914 - INFO - 📥 200 (262ms)
+2026-04-10 18:11:30,987 - INFO - 📥 200 (335ms)
+2026-04-10 18:11:31,009 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:11:31,255 - INFO - 📥 200 (244ms)
+2026-04-10 18:12:47,899 - INFO - 🚀 初始化 API 上下文
+2026-04-10 18:12:47,901 - INFO - ✅ API 上下文初始化完成: https://api.forface3d.com
+2026-04-10 18:12:47,904 - INFO - 正在获取新的 Access Token...
+2026-04-10 18:12:48,213 - INFO - ✅ Access Token 获取成功
+2026-04-10 18:12:48,215 - INFO - ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnpkV0lpT2lKS1RFTmZSazlTUmtGRFJWOVZVMFZTSWl3aVlYVmtJam9pUms5U1JrRkRSU0lzSW01aVppSTZNVGMzTlRneE5UazJPQ3dpZEc5clpXNWZhVzVtYnlJNmV5SmhjSEJKYm1adklqcDdJbUZ3Y0Y5cFpDSTZJakUzTURBeE16QXdNVFExTXpReE9EUTVOakFpTENKeVpXeGhkR1ZrWDNWelpYSmZhV1FpT2pFM09IMHNJbUZ3Y0Vsa0lqb2lSVEEwUmtaRU1FWTBNRUl5TTBFNE5FVXpNamd5UVRnNVJUSTJSa1ZCTkVJaUxDSndjbTlrZFdOMFNXNW1ieUk2V3lKR00wTTFRakUyTWtJNFFrUXdPREZEUkRKQk0wSTRSRU5GT1VZelJFRXhNaUlzSWtKR1JESTJOREF5UmtRelFrWkNPRE14TWtVM01VVkdPVFpCUkVJNVFrTXlJaXdpTlVJeVFUSkJSamhDTXpZNU5qTTJSalUzUkVJeU1VUTVRekEyTkRjNU1ERWlMQ0k1UXprNE1ETTFSVEJETmpJMU56RkRNRFJDT1RBNU1VVXhRelV5TkRZd1JTSXNJakZCT1RGR09ESkNOa0pGUWpJNU1VWTNORVpGT1VNMFFrWXpOVE5ETVVFNUlsMTlMQ0pwYzNNaU9pSktURU5mUms5U1JrRkRSU0lzSW1WNGNDSTZNVGMzTlRneU16RTJPQ3dpYVdGMElqb3hOemMxT0RFMU9UWTRmUS5LczNhQW9OeGtXM3BDbEJ1bTgxaWF2bzZDd2FuT242enVUX2VITG5hY2xZWVdSelptRmtjMlpoWkdaaEZrUm1ZWE5rWmc9PQ==
+2026-04-10 18:12:48,217 - INFO - ✅ 认证 token 已设置
+2026-04-10 18:12:48,219 - INFO - ✅ API 自动认证成功
+2026-04-10 18:12:48,224 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:12:48,459 - INFO - 📥 200 (233ms)
+2026-04-10 18:12:48,498 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:12:48,499 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:12:48,500 - INFO - 📤 POST /forface/external/analysis/uploadFile
+2026-04-10 18:12:48,760 - INFO - 📥 200 (256ms)
+2026-04-10 18:12:48,828 - INFO - 📥 200 (322ms)
+2026-04-10 18:12:48,917 - INFO - 📥 200 (411ms)
+2026-04-10 18:12:48,937 - INFO - 🧹 清理 API 上下文
+2026-04-10 18:12:48,939 - INFO - ✅ API 上下文清理完成
+2026-04-10 18:12:48,942 - INFO - ✅ API 上下文已关闭

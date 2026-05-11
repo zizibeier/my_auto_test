@@ -1,0 +1,135 @@
+# model_test/api/data/test.yaml
+# analysis 文件上传测试数据
+
+# ==================== 测试用例 ====================
+groups:
+  # 1. 标准测试
+  - name: "standard"
+    description: "标准功能测试"
+    cases:
+      - name: "标准上传-默认参数"
+        file_name: "${getfile:${global:test_files_dir}:3mf,stp}"
+        extra_info: "测试默认参数 | ${datetime_now}"
+        expected_status: "success"
+
+      - name: "标准上传-使用缓存"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        use_cache: "true"
+        extra_info: "测试使用缓存 | ${uuid}"
+        expected_status: "success"
+
+      - name: "标准上传-不使用缓存"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        use_cache: "false"
+        extra_info: "测试不使用缓存 | ${uuid}"
+        expected_status: "success"
+
+      - name: "标准上传-带Webhook"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        webhook_key: "AA95CEFE1C638B58E5F2B2D5F228545E"
+        extra_info: "测试Webhook回调"
+        expected_status: "success"
+
+      - name: "标准上传-透传参数"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        params: "21)71"
+        extra_info: "测试透传参数 | ${uuid}"
+        expected_status: "success"
+
+  # 2. 边界值测试
+  - name: "boundary"
+    description: "边界值测试"
+    cases:
+      - name: "预览格式-glb"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        preview_type: "0"
+        extra_info: "glb预览 | ${datetime_now}"
+        expected_status: "success"
+
+      - name: "预览格式-f3d"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        preview_type: "1"
+        extra_info: "f3d预览 | ${datetime_now}"
+        expected_status: "success"
+
+      - name: "薄壁阈值-最小值"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        need_business_service: "1"
+        minimum_thickness_threshold: "0.1"
+        extra_info: "极小薄壁阈值"
+        expected_status: "success"
+
+      - name: "薄壁阈值-最大值"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        need_business_service: "1"
+        minimum_thickness_threshold: "10.0"
+        extra_info: "极大薄壁阈值"
+        expected_status: "success"
+
+      - name: "封面颜色-红色"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        cover_color: "#FF0000"
+        extra_info: "红色封面"
+        expected_status: "success"
+
+      - name: "封面颜色-黑色"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        cover_color: "#000000"
+        extra_info: "黑色封面"
+        expected_status: "success"
+
+  # 3. 参数组合测试
+  - name: "combination"
+    description: "参数组合测试"
+    cases:
+      - name: "全部启用"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        use_cache: "true"
+        preview_type: "1"
+        need_business_service: "1"
+        need_stl_light_weight: "1"
+        minimum_thickness_threshold: "0.8"
+        high_risk_area_define: "100.0"
+        cover_color: "#85A2CD"
+        extra_info: "完整处理 | ${uuid}"
+        expected_status: "success"
+
+      - name: "仅预览"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        preview_type: "1"
+        need_business_service: "0"
+        need_stl_light_weight: "0"
+        extra_info: "仅预览 | ${uuid}"
+        expected_status: "success"
+
+      - name: "无任何处理"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        preview_type: "0"
+        need_business_service: "0"
+        need_stl_light_weight: "0"
+        extra_info: "无处理 | ${uuid}"
+        expected_status: "success"
+
+  # 4. 回归测试
+  - name: "regression"
+    description: "回归测试"
+    cases:
+      - name: "回归-多类型文件"
+        file_name: "${getfile:${global:test_files_dir}:stp,step,3mf}"
+        extra_info: "随机文件类型 | ${uuid}"
+        expected_status: "success"
+
+  # 5. 异常测试
+  - name: "negative"
+    description: "异常测试"
+    cases:
+      - name: "异常-文件不存在"
+        file_name: "not_exist.stp"
+        extra_info: "文件不存在测试"
+        expected_status: "failed"
+
+      - name: "异常-无效预览格式"
+        file_name: "${getfile:${global:test_files_dir}:stp}"
+        preview_type: "99"
+        extra_info: "无效预览格式测试"
+        expected_status: "failed"

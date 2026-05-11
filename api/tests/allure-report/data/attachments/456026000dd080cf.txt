@@ -1,0 +1,13 @@
+Status: 200
+Time: 300ms
+
+Body:
+{
+  "code": "00000",
+  "msg": "操作成功",
+  "data": {
+    "tokenKey": "36e3422ebe8b23b278c64af151c92bee",
+    "id": "2051959083950292992"
+  },
+  "success": true
+}

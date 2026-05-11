@@ -1,0 +1,14 @@
+# api/data/api_config.yaml
+# 接口路径配置
+
+# 认证相关接口
+auth:
+  get_token: "/forface/external/oauth/getAccessToken"
+
+#文件解析相关接口
+analysis:
+  upload_file: "/forface/external/analysis/uploadFile"
+  upload_filepath: "/forface/external/analysis/uploadFilePath"
+  file_by_id: "/forface/external/analysis/findByFileId"
+  file_by_page: "/forface/external/analysis/findByPage"
+
